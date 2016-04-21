@@ -29,4 +29,3 @@ Link to my video
 [![IMAGE Assignment Video](https://img.youtube.com/vi/8P9bBii95MU/0.jpg)](https://www.youtube.com/watch?v=8P9bBii95MU)
 
 Originally this application was going to teach kids to draw using a step by step process, however upon starting the project I found out just how much work was involved just to get a simple drawing application working. I do however plan to take this project forward and continue towards the aim i had set out at the start.
->>>>>>> 9c9369265bdffd18b107f94baed4b9727dc4c829
